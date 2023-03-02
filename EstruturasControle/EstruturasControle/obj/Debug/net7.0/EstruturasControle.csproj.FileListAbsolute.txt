@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\bin\Debug\net7.0\EstruturasControle.exe
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\bin\Debug\net7.0\EstruturasControle.deps.json
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\bin\Debug\net7.0\EstruturasControle.runtimeconfig.json
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\bin\Debug\net7.0\EstruturasControle.dll
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\bin\Debug\net7.0\EstruturasControle.pdb
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.AssemblyInfo.cs
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.dll
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\refint\EstruturasControle.dll
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.pdb
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\EstruturasControle.genruntimeconfig.cache
+C:\cSharpCursoCodigo\EstruturasControle\EstruturasControle\obj\Debug\net7.0\ref\EstruturasControle.dll

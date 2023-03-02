@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Constants\Constants\bin\Debug\net7.0\Constants.exe
+C:\cSharpCursoCodigo\Constants\Constants\bin\Debug\net7.0\Constants.deps.json
+C:\cSharpCursoCodigo\Constants\Constants\bin\Debug\net7.0\Constants.runtimeconfig.json
+C:\cSharpCursoCodigo\Constants\Constants\bin\Debug\net7.0\Constants.dll
+C:\cSharpCursoCodigo\Constants\Constants\bin\Debug\net7.0\Constants.pdb
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.dll
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\refint\Constants.dll
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.pdb
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\Constants.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Constants\Constants\obj\Debug\net7.0\ref\Constants.dll

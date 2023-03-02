@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.exe
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.deps.json
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.runtimeconfig.json
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.dll
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.pdb
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.dll
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\refint\Sobrecarga.dll
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.pdb
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Sobrecarga\Sobrecarga\obj\Debug\net7.0\ref\Sobrecarga.dll

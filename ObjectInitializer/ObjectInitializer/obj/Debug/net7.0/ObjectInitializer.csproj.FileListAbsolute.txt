@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\bin\Debug\net7.0\ObjectInitializer.exe
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\bin\Debug\net7.0\ObjectInitializer.deps.json
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\bin\Debug\net7.0\ObjectInitializer.runtimeconfig.json
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\bin\Debug\net7.0\ObjectInitializer.dll
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\bin\Debug\net7.0\ObjectInitializer.pdb
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.dll
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\refint\ObjectInitializer.dll
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.pdb
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ObjectInitializer.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ObjectInitializer\ObjectInitializer\obj\Debug\net7.0\ref\ObjectInitializer.dll

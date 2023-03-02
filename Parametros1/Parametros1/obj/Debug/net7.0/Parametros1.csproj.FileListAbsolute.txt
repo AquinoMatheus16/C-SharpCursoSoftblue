@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Parametros1\Parametros1\bin\Debug\net7.0\Parametros1.exe
+C:\cSharpCursoCodigo\Parametros1\Parametros1\bin\Debug\net7.0\Parametros1.deps.json
+C:\cSharpCursoCodigo\Parametros1\Parametros1\bin\Debug\net7.0\Parametros1.runtimeconfig.json
+C:\cSharpCursoCodigo\Parametros1\Parametros1\bin\Debug\net7.0\Parametros1.dll
+C:\cSharpCursoCodigo\Parametros1\Parametros1\bin\Debug\net7.0\Parametros1.pdb
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.dll
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\refint\Parametros1.dll
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.pdb
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\Parametros1.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Parametros1\Parametros1\obj\Debug\net7.0\ref\Parametros1.dll

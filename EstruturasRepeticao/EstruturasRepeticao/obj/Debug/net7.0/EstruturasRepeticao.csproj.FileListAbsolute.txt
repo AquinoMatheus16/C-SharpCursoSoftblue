@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.exe
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.deps.json
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.runtimeconfig.json
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.dll
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.pdb
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.dll
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\refint\EstruturasRepeticao.dll
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.pdb
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\cSharpCursoCodigo\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\net7.0\ref\EstruturasRepeticao.dll

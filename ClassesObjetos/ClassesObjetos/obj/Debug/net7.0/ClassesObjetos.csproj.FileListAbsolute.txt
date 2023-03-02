@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.exe
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.deps.json
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.runtimeconfig.json
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.dll
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.pdb
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.dll
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\refint\ClassesObjetos.dll
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.pdb
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ClassesObjetos\ClassesObjetos\obj\Debug\net7.0\ref\ClassesObjetos.dll
