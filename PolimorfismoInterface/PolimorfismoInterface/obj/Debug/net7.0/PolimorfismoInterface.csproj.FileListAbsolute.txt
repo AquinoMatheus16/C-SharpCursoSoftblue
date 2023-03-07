@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\bin\Debug\net7.0\PolimorfismoInterface.exe
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\bin\Debug\net7.0\PolimorfismoInterface.deps.json
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\bin\Debug\net7.0\PolimorfismoInterface.runtimeconfig.json
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\bin\Debug\net7.0\PolimorfismoInterface.dll
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\bin\Debug\net7.0\PolimorfismoInterface.pdb
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.AssemblyInfo.cs
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.dll
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\refint\PolimorfismoInterface.dll
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.pdb
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\PolimorfismoInterface.genruntimeconfig.cache
+C:\cSharpCursoCodigo\PolimorfismoInterface\PolimorfismoInterface\obj\Debug\net7.0\ref\PolimorfismoInterface.dll

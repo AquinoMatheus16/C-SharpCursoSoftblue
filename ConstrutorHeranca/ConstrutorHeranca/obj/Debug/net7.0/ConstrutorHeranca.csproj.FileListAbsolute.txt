@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\bin\Debug\net7.0\ConstrutorHeranca.exe
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\bin\Debug\net7.0\ConstrutorHeranca.deps.json
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\bin\Debug\net7.0\ConstrutorHeranca.runtimeconfig.json
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\bin\Debug\net7.0\ConstrutorHeranca.dll
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\bin\Debug\net7.0\ConstrutorHeranca.pdb
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.dll
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\refint\ConstrutorHeranca.dll
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.pdb
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ConstrutorHeranca.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ConstrutorHeranca\ConstrutorHeranca\obj\Debug\net7.0\ref\ConstrutorHeranca.dll

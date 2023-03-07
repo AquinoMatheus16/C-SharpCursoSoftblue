@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Polimorfismo\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll
