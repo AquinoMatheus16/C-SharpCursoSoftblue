@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\bin\Debug\net7.0\InnerExceptions.exe
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\bin\Debug\net7.0\InnerExceptions.deps.json
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\bin\Debug\net7.0\InnerExceptions.runtimeconfig.json
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\bin\Debug\net7.0\InnerExceptions.dll
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\bin\Debug\net7.0\InnerExceptions.pdb
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.AssemblyInfo.cs
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.dll
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\refint\InnerExceptions.dll
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.pdb
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\InnerExceptions.genruntimeconfig.cache
+C:\cSharpCursoCodigo\InnerExceptions\InnerExceptions\obj\Debug\net7.0\ref\InnerExceptions.dll

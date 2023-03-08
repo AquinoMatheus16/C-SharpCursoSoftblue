@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Exceptions\Exceptions\bin\Debug\net7.0\Exceptions.exe
+C:\cSharpCursoCodigo\Exceptions\Exceptions\bin\Debug\net7.0\Exceptions.deps.json
+C:\cSharpCursoCodigo\Exceptions\Exceptions\bin\Debug\net7.0\Exceptions.runtimeconfig.json
+C:\cSharpCursoCodigo\Exceptions\Exceptions\bin\Debug\net7.0\Exceptions.dll
+C:\cSharpCursoCodigo\Exceptions\Exceptions\bin\Debug\net7.0\Exceptions.pdb
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.dll
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\refint\Exceptions.dll
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.pdb
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\Exceptions.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Exceptions\Exceptions\obj\Debug\net7.0\ref\Exceptions.dll

@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Generics\Generics\bin\Debug\net7.0\Generics.exe
+C:\cSharpCursoCodigo\Generics\Generics\bin\Debug\net7.0\Generics.deps.json
+C:\cSharpCursoCodigo\Generics\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+C:\cSharpCursoCodigo\Generics\Generics\bin\Debug\net7.0\Generics.dll
+C:\cSharpCursoCodigo\Generics\Generics\bin\Debug\net7.0\Generics.pdb
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.dll
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\refint\Generics.dll
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.pdb
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Generics\Generics\obj\Debug\net7.0\ref\Generics.dll

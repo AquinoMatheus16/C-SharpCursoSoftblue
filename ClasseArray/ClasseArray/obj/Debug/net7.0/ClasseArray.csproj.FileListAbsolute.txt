@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\bin\Debug\net7.0\ClasseArray.exe
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\bin\Debug\net7.0\ClasseArray.deps.json
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\bin\Debug\net7.0\ClasseArray.runtimeconfig.json
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\bin\Debug\net7.0\ClasseArray.dll
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\bin\Debug\net7.0\ClasseArray.pdb
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.dll
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\refint\ClasseArray.dll
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.pdb
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ClasseArray.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ClasseArray\ClasseArray\obj\Debug\net7.0\ref\ClasseArray.dll

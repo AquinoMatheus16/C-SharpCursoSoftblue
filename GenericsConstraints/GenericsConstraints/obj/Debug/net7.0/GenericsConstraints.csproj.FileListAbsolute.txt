@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\bin\Debug\net7.0\GenericsConstraints.exe
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\bin\Debug\net7.0\GenericsConstraints.deps.json
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\bin\Debug\net7.0\GenericsConstraints.runtimeconfig.json
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\bin\Debug\net7.0\GenericsConstraints.dll
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\bin\Debug\net7.0\GenericsConstraints.pdb
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.AssemblyInfo.cs
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.dll
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\refint\GenericsConstraints.dll
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.pdb
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\GenericsConstraints.genruntimeconfig.cache
+C:\cSharpCursoCodigo\GenericsConstraints\GenericsConstraints\obj\Debug\net7.0\ref\GenericsConstraints.dll

@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Format\Format\bin\Debug\net7.0\Format.exe
+C:\cSharpCursoCodigo\Format\Format\bin\Debug\net7.0\Format.deps.json
+C:\cSharpCursoCodigo\Format\Format\bin\Debug\net7.0\Format.runtimeconfig.json
+C:\cSharpCursoCodigo\Format\Format\bin\Debug\net7.0\Format.dll
+C:\cSharpCursoCodigo\Format\Format\bin\Debug\net7.0\Format.pdb
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.dll
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\refint\Format.dll
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.pdb
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\Format.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Format\Format\obj\Debug\net7.0\ref\Format.dll

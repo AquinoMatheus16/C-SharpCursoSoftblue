@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.exe
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.deps.json
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.runtimeconfig.json
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.dll
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.pdb
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.dll
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\refint\ClassesAbstratas.dll
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.pdb
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ref\ClassesAbstratas.dll

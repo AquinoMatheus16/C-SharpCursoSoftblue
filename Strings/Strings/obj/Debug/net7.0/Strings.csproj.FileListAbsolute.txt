@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Strings\Strings\bin\Debug\net7.0\Strings.exe
+C:\cSharpCursoCodigo\Strings\Strings\bin\Debug\net7.0\Strings.deps.json
+C:\cSharpCursoCodigo\Strings\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+C:\cSharpCursoCodigo\Strings\Strings\bin\Debug\net7.0\Strings.dll
+C:\cSharpCursoCodigo\Strings\Strings\bin\Debug\net7.0\Strings.pdb
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.dll
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\refint\Strings.dll
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.pdb
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Strings\Strings\obj\Debug\net7.0\ref\Strings.dll

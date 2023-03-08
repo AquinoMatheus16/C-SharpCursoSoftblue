@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Enumerations\Enumerations\bin\Debug\net7.0\Enumerations.exe
+C:\cSharpCursoCodigo\Enumerations\Enumerations\bin\Debug\net7.0\Enumerations.deps.json
+C:\cSharpCursoCodigo\Enumerations\Enumerations\bin\Debug\net7.0\Enumerations.runtimeconfig.json
+C:\cSharpCursoCodigo\Enumerations\Enumerations\bin\Debug\net7.0\Enumerations.dll
+C:\cSharpCursoCodigo\Enumerations\Enumerations\bin\Debug\net7.0\Enumerations.pdb
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.dll
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\refint\Enumerations.dll
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.pdb
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\Enumerations.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Enumerations\Enumerations\obj\Debug\net7.0\ref\Enumerations.dll

@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Finally\Finally\bin\Debug\net7.0\Finally.exe
+C:\cSharpCursoCodigo\Finally\Finally\bin\Debug\net7.0\Finally.deps.json
+C:\cSharpCursoCodigo\Finally\Finally\bin\Debug\net7.0\Finally.runtimeconfig.json
+C:\cSharpCursoCodigo\Finally\Finally\bin\Debug\net7.0\Finally.dll
+C:\cSharpCursoCodigo\Finally\Finally\bin\Debug\net7.0\Finally.pdb
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.dll
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\refint\Finally.dll
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.pdb
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\Finally.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Finally\Finally\obj\Debug\net7.0\ref\Finally.dll

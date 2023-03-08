@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\bin\Debug\net7.0\NumerosRandomicos.exe
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\bin\Debug\net7.0\NumerosRandomicos.deps.json
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\bin\Debug\net7.0\NumerosRandomicos.runtimeconfig.json
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\bin\Debug\net7.0\NumerosRandomicos.dll
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\bin\Debug\net7.0\NumerosRandomicos.pdb
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.AssemblyInfo.cs
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.dll
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\refint\NumerosRandomicos.dll
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.pdb
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\NumerosRandomicos.genruntimeconfig.cache
+C:\cSharpCursoCodigo\NumerosRandomicos\NumerosRandomicos\obj\Debug\net7.0\ref\NumerosRandomicos.dll
