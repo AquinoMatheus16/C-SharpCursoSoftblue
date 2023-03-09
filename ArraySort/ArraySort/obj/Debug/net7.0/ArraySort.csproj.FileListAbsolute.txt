@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.exe
+C:\cSharpCursoCodigo\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.deps.json
+C:\cSharpCursoCodigo\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.runtimeconfig.json
+C:\cSharpCursoCodigo\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.dll
+C:\cSharpCursoCodigo\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.pdb
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.dll
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\refint\ArraySort.dll
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.pdb
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ArraySort\ArraySort\obj\Debug\net7.0\ref\ArraySort.dll

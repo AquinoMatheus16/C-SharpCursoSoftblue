@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\bin\Debug\net7.0\ArquivosDiretorios1.exe
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\bin\Debug\net7.0\ArquivosDiretorios1.deps.json
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\bin\Debug\net7.0\ArquivosDiretorios1.runtimeconfig.json
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\bin\Debug\net7.0\ArquivosDiretorios1.dll
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\bin\Debug\net7.0\ArquivosDiretorios1.pdb
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.dll
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\refint\ArquivosDiretorios1.dll
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.pdb
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ArquivosDiretorios1.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ArquivosDiretorios1\ArquivosDiretorios1\obj\Debug\net7.0\ref\ArquivosDiretorios1.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MainParam": {
+      "commandName": "Project",
+      "commandLineArgs": "10 10"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Listas\Listas\bin\Debug\net7.0\Listas.exe
+C:\cSharpCursoCodigo\Listas\Listas\bin\Debug\net7.0\Listas.deps.json
+C:\cSharpCursoCodigo\Listas\Listas\bin\Debug\net7.0\Listas.runtimeconfig.json
+C:\cSharpCursoCodigo\Listas\Listas\bin\Debug\net7.0\Listas.dll
+C:\cSharpCursoCodigo\Listas\Listas\bin\Debug\net7.0\Listas.pdb
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.dll
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\refint\Listas.dll
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.pdb
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\Listas.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Listas\Listas\obj\Debug\net7.0\ref\Listas.dll

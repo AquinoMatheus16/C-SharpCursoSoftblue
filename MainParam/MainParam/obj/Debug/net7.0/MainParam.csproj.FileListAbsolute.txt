@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\MainParam\MainParam\bin\Debug\net7.0\MainParam.exe
+C:\cSharpCursoCodigo\MainParam\MainParam\bin\Debug\net7.0\MainParam.deps.json
+C:\cSharpCursoCodigo\MainParam\MainParam\bin\Debug\net7.0\MainParam.runtimeconfig.json
+C:\cSharpCursoCodigo\MainParam\MainParam\bin\Debug\net7.0\MainParam.dll
+C:\cSharpCursoCodigo\MainParam\MainParam\bin\Debug\net7.0\MainParam.pdb
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.AssemblyInfo.cs
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.dll
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\refint\MainParam.dll
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.pdb
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\MainParam.genruntimeconfig.cache
+C:\cSharpCursoCodigo\MainParam\MainParam\obj\Debug\net7.0\ref\MainParam.dll

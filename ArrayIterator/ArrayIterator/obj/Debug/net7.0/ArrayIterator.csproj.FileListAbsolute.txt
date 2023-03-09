@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\bin\Debug\net7.0\ArrayIterator.exe
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\bin\Debug\net7.0\ArrayIterator.deps.json
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\bin\Debug\net7.0\ArrayIterator.runtimeconfig.json
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\bin\Debug\net7.0\ArrayIterator.dll
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\bin\Debug\net7.0\ArrayIterator.pdb
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.dll
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\refint\ArrayIterator.dll
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.pdb
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ArrayIterator.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ArrayIterator\ArrayIterator\obj\Debug\net7.0\ref\ArrayIterator.dll

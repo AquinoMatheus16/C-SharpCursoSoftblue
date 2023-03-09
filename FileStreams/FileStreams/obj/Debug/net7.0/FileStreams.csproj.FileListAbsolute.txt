@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\FileStreams\FileStreams\bin\Debug\net7.0\FileStreams.exe
+C:\cSharpCursoCodigo\FileStreams\FileStreams\bin\Debug\net7.0\FileStreams.deps.json
+C:\cSharpCursoCodigo\FileStreams\FileStreams\bin\Debug\net7.0\FileStreams.runtimeconfig.json
+C:\cSharpCursoCodigo\FileStreams\FileStreams\bin\Debug\net7.0\FileStreams.dll
+C:\cSharpCursoCodigo\FileStreams\FileStreams\bin\Debug\net7.0\FileStreams.pdb
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.AssemblyInfo.cs
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.dll
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\refint\FileStreams.dll
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.pdb
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\FileStreams.genruntimeconfig.cache
+C:\cSharpCursoCodigo\FileStreams\FileStreams\obj\Debug\net7.0\ref\FileStreams.dll

@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\bin\Debug\net7.0\Dicionarios.exe
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\bin\Debug\net7.0\Dicionarios.deps.json
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\bin\Debug\net7.0\Dicionarios.runtimeconfig.json
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\bin\Debug\net7.0\Dicionarios.dll
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\bin\Debug\net7.0\Dicionarios.pdb
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.dll
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\refint\Dicionarios.dll
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.pdb
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\Dicionarios.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Dicionarios\Dicionarios\obj\Debug\net7.0\ref\Dicionarios.dll

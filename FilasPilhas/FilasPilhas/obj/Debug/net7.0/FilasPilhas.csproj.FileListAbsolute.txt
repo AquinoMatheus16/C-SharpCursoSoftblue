@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\bin\Debug\net7.0\FilasPilhas.exe
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\bin\Debug\net7.0\FilasPilhas.deps.json
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\bin\Debug\net7.0\FilasPilhas.runtimeconfig.json
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\bin\Debug\net7.0\FilasPilhas.dll
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\bin\Debug\net7.0\FilasPilhas.pdb
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.AssemblyInfo.cs
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.dll
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\refint\FilasPilhas.dll
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.pdb
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\FilasPilhas.genruntimeconfig.cache
+C:\cSharpCursoCodigo\FilasPilhas\FilasPilhas\obj\Debug\net7.0\ref\FilasPilhas.dll

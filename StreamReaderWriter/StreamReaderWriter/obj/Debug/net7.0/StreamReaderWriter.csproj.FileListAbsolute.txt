@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\bin\Debug\net7.0\StreamReaderWriter.exe
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\bin\Debug\net7.0\StreamReaderWriter.deps.json
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\bin\Debug\net7.0\StreamReaderWriter.runtimeconfig.json
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\bin\Debug\net7.0\StreamReaderWriter.dll
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\bin\Debug\net7.0\StreamReaderWriter.pdb
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.AssemblyInfo.cs
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.dll
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\refint\StreamReaderWriter.dll
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.pdb
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\StreamReaderWriter.genruntimeconfig.cache
+C:\cSharpCursoCodigo\StreamReaderWriter\StreamReaderWriter\obj\Debug\net7.0\ref\StreamReaderWriter.dll

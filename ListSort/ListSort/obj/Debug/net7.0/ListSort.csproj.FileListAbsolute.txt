@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.AssemblyInfo.cs
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\ListSort\ListSort\bin\Debug\net7.0\ListSort.exe
+C:\cSharpCursoCodigo\ListSort\ListSort\bin\Debug\net7.0\ListSort.deps.json
+C:\cSharpCursoCodigo\ListSort\ListSort\bin\Debug\net7.0\ListSort.runtimeconfig.json
+C:\cSharpCursoCodigo\ListSort\ListSort\bin\Debug\net7.0\ListSort.dll
+C:\cSharpCursoCodigo\ListSort\ListSort\bin\Debug\net7.0\ListSort.pdb
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.dll
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\refint\ListSort.dll
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.pdb
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ListSort.genruntimeconfig.cache
+C:\cSharpCursoCodigo\ListSort\ListSort\obj\Debug\net7.0\ref\ListSort.dll
