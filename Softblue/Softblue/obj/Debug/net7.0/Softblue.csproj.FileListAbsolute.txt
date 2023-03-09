@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Softblue\Softblue\bin\Debug\net7.0\Softblue.exe
+C:\cSharpCursoCodigo\Softblue\Softblue\bin\Debug\net7.0\Softblue.deps.json
+C:\cSharpCursoCodigo\Softblue\Softblue\bin\Debug\net7.0\Softblue.runtimeconfig.json
+C:\cSharpCursoCodigo\Softblue\Softblue\bin\Debug\net7.0\Softblue.dll
+C:\cSharpCursoCodigo\Softblue\Softblue\bin\Debug\net7.0\Softblue.pdb
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.dll
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\refint\Softblue.dll
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.pdb
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\Softblue.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Softblue\Softblue\obj\Debug\net7.0\ref\Softblue.dll

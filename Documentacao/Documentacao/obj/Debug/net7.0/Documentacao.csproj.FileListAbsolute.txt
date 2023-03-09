@@ -1,0 +1,16 @@
+C:\cSharpCursoCodigo\Documentacao\Documentacao\bin\Debug\net7.0\Documentacao.exe
+C:\cSharpCursoCodigo\Documentacao\Documentacao\bin\Debug\net7.0\Documentacao.deps.json
+C:\cSharpCursoCodigo\Documentacao\Documentacao\bin\Debug\net7.0\Documentacao.runtimeconfig.json
+C:\cSharpCursoCodigo\Documentacao\Documentacao\bin\Debug\net7.0\Documentacao.dll
+C:\cSharpCursoCodigo\Documentacao\Documentacao\bin\Debug\net7.0\Documentacao.pdb
+C:\cSharpCursoCodigo\Documentacao\Documentacao\bin\Debug\net7.0\Documentacao.XML
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.AssemblyInfo.cs
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.dll
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\refint\Documentacao.dll
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.pdb
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\Documentacao.genruntimeconfig.cache
+C:\cSharpCursoCodigo\Documentacao\Documentacao\obj\Debug\net7.0\ref\Documentacao.dll

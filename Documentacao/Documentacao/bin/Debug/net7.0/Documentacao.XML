@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Documentacao</name>
+    </assembly>
+    <members>
+        <member name="T:Documentacao.ContaCorrente">
+            <summary>
+            Representa uma conta corrente.
+            </summary>
+        </member>
+        <member name="P:Documentacao.ContaCorrente.Saldo">
+            <summary>
+            Saldo atual da conta.
+            </summary>
+        </member>
+        <member name="M:Documentacao.ContaCorrente.#ctor(System.Double)">
+            <summary>
+            Contrutor da classe.
+            </summary>
+            <param name="saldoInicial">Saldo inicial para a conta.</param>
+        </member>
+        <member name="M:Documentacao.ContaCorrente.Depositar(System.Double)">
+            <summary>
+            Faz um depósito na conta.
+            </summary>
+            <param name="valor">Valor a ser depositado</param>
+            <exception cref="T:System.ArgumentException">Lançada quando o valor é 0 ou menor</exception>
+        </member>
+        <member name="M:Documentacao.ContaCorrente.Bloquear">
+            <summary>
+            Bloqueia o saldo da conta.
+            </summary>
+            <returns>Retorna o saldo da conta.</returns>
+        </member>
+    </members>
+</doc>
