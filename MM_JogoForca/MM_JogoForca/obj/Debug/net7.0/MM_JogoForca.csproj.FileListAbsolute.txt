@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\bin\Debug\net7.0\MM_JogoForca.exe
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\bin\Debug\net7.0\MM_JogoForca.deps.json
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\bin\Debug\net7.0\MM_JogoForca.runtimeconfig.json
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\bin\Debug\net7.0\MM_JogoForca.dll
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\bin\Debug\net7.0\MM_JogoForca.pdb
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.AssemblyInfo.cs
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.dll
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\refint\MM_JogoForca.dll
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.pdb
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\MM_JogoForca.genruntimeconfig.cache
+C:\cSharpCursoCodigo\MM_JogoForca\MM_JogoForca\obj\Debug\net7.0\ref\MM_JogoForca.dll

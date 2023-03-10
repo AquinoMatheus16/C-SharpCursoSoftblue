@@ -81,7 +81,6 @@ namespace Softblue
                 return scores;
             }
 
-
             /// <see cref="SurveyIO.Save()"/>
             public void Save(BinaryWriter writer)
             {
@@ -127,7 +126,3 @@ namespace Softblue
         }
     }
 }
-
-
-
-
