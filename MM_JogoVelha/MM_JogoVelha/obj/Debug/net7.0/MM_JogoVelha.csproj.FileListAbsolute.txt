@@ -1,0 +1,15 @@
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\bin\Debug\net7.0\MM_JogoVelha.exe
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\bin\Debug\net7.0\MM_JogoVelha.deps.json
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\bin\Debug\net7.0\MM_JogoVelha.runtimeconfig.json
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\bin\Debug\net7.0\MM_JogoVelha.dll
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\bin\Debug\net7.0\MM_JogoVelha.pdb
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.csproj.AssemblyReference.cache
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.AssemblyInfoInputs.cache
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.AssemblyInfo.cs
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.csproj.CoreCompileInputs.cache
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.dll
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\refint\MM_JogoVelha.dll
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.pdb
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\MM_JogoVelha.genruntimeconfig.cache
+C:\cSharpCursoCodigo\MM_JogoVelha\MM_JogoVelha\obj\Debug\net7.0\ref\MM_JogoVelha.dll

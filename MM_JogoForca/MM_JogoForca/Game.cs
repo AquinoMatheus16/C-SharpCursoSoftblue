@@ -91,7 +91,7 @@ namespace Softblue
                 // Se o loop terminou, foi porque o jogador ganhou ou perdeu.
                 if (errors < maxErrors)
                 {
-                    // Se o número máximo de erros não foi atingido, o jogador ganhou.7
+                    // Se o número máximo de erros não foi atingido, o jogador ganhou.
                     Console.Write("\nVocê adivinhou a palavra: {0}. Deseja jogar mais uma vez? (S/N): ", w.CompleteWord);
                 }
                 else
