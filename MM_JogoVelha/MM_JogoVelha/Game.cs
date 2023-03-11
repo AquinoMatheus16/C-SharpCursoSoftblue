@@ -45,12 +45,12 @@ namespace Softblue
                 Player activePlayer = NextPlayer();
 
                 Console.ForegroundColor = activePlayer.Color;
-                Console.WriteLine("Jogador da vaz: {0}", activePlayer.Name);
+                Console.WriteLine("Jogador da vez: {0}", activePlayer.Name);
 
                 while (true)
                 {
                     // Solicita a jogada.
-                    Console.Write("\nDigite ajogada: ");
+                    Console.Write("\nDigite a jogada: ");
                     string play = Console.ReadLine();
 
                     try
@@ -76,7 +76,7 @@ namespace Softblue
             Console.WriteLine("O jogo terminou\n");
 
             Player winnerPlayer = null;
-            if (winnerPlayer != null)
+            if (winnerBoardItem != null)
             {
                 // Se winnerBoardItem não for null, alguém ganhou o jogo.
                 if (players[0].BoardItem == winnerBoardItem)
