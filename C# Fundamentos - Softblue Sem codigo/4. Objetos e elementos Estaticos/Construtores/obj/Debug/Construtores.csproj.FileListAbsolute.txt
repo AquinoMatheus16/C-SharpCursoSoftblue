@@ -1,0 +1,6 @@
+C:\VisualStudio\Construtores\bin\Debug\Construtores.exe.config
+C:\VisualStudio\Construtores\bin\Debug\Construtores.exe
+C:\VisualStudio\Construtores\bin\Debug\Construtores.pdb
+C:\VisualStudio\Construtores\obj\Debug\Construtores.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Construtores\obj\Debug\Construtores.exe
+C:\VisualStudio\Construtores\obj\Debug\Construtores.pdb

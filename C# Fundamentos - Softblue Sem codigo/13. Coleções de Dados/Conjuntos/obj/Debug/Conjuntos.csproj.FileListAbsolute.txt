@@ -1,0 +1,6 @@
+C:\VisualStudio\Conjuntos\bin\Debug\Conjuntos.exe.config
+C:\VisualStudio\Conjuntos\bin\Debug\Conjuntos.exe
+C:\VisualStudio\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\VisualStudio\Conjuntos\obj\Debug\Conjuntos.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Conjuntos\obj\Debug\Conjuntos.exe
+C:\VisualStudio\Conjuntos\obj\Debug\Conjuntos.pdb

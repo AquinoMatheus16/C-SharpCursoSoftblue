@@ -1,0 +1,6 @@
+C:\VisualStudio\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\VisualStudio\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\VisualStudio\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\VisualStudio\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\VisualStudio\Polimorfismo\obj\Debug\Polimorfismo.pdb

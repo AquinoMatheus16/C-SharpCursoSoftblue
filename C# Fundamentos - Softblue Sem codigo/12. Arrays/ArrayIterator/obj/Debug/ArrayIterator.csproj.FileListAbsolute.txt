@@ -1,0 +1,5 @@
+C:\VisualStudio\ArrayIterator\bin\Debug\ArrayIterator.exe.config
+C:\VisualStudio\ArrayIterator\bin\Debug\ArrayIterator.exe
+C:\VisualStudio\ArrayIterator\bin\Debug\ArrayIterator.pdb
+C:\VisualStudio\ArrayIterator\obj\Debug\ArrayIterator.exe
+C:\VisualStudio\ArrayIterator\obj\Debug\ArrayIterator.pdb

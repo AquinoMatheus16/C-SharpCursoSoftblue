@@ -1,0 +1,6 @@
+C:\VisualStudio\Dicionarios\bin\Debug\Dicionarios.exe.config
+C:\VisualStudio\Dicionarios\bin\Debug\Dicionarios.exe
+C:\VisualStudio\Dicionarios\bin\Debug\Dicionarios.pdb
+C:\VisualStudio\Dicionarios\obj\Debug\Dicionarios.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Dicionarios\obj\Debug\Dicionarios.exe
+C:\VisualStudio\Dicionarios\obj\Debug\Dicionarios.pdb

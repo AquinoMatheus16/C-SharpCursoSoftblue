@@ -1,0 +1,9 @@
+C:\VisualStudio\Mod-10__Ex-02\bin\Debug\Mod-10__Ex-02.exe.config
+C:\VisualStudio\Mod-10__Ex-02\bin\Debug\Mod-10__Ex-02.exe
+C:\VisualStudio\Mod-10__Ex-02\bin\Debug\Mod-10__Ex-02.pdb
+C:\VisualStudio\Mod-10__Ex-02\obj\Debug\Mod-10__Ex-02.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Mod-10__Ex-02\obj\Debug\Mod-10__Ex-02.exe
+C:\VisualStudio\Mod-10__Ex-02\obj\Debug\Mod-10__Ex-02.pdb
+C:\Softblue\Cursos\10 - Fundamentos de C#\Downloads\10\Exercícios\Mod-10__Ex-02\bin\Debug\Mod-10__Ex-02.exe.config
+C:\Softblue\Cursos\10 - Fundamentos de C#\Downloads\10\Exercícios\Mod-10__Ex-02\obj\Debug\Mod-10__Ex-02.exe
+C:\Softblue\Cursos\10 - Fundamentos de C#\Downloads\10\Exercícios\Mod-10__Ex-02\obj\Debug\Mod-10__Ex-02.pdb

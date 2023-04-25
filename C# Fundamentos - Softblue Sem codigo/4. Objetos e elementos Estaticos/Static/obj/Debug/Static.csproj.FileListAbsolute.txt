@@ -1,0 +1,6 @@
+C:\VisualStudio\Static\bin\Debug\Static.exe.config
+C:\VisualStudio\Static\bin\Debug\Static.exe
+C:\VisualStudio\Static\bin\Debug\Static.pdb
+C:\VisualStudio\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Static\obj\Debug\Static.exe
+C:\VisualStudio\Static\obj\Debug\Static.pdb

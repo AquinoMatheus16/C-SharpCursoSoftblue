@@ -1,0 +1,6 @@
+C:\VisualStudio\Listas\bin\Debug\Listas.exe.config
+C:\VisualStudio\Listas\bin\Debug\Listas.exe
+C:\VisualStudio\Listas\bin\Debug\Listas.pdb
+C:\VisualStudio\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Listas\obj\Debug\Listas.exe
+C:\VisualStudio\Listas\obj\Debug\Listas.pdb

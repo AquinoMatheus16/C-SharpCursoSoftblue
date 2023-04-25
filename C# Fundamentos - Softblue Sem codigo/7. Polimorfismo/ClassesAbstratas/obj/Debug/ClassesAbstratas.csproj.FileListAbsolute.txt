@@ -1,0 +1,6 @@
+C:\VisualStudio\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe.config
+C:\VisualStudio\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+C:\VisualStudio\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+C:\VisualStudio\ClassesAbstratas\obj\Debug\ClassesAbstratas.exe
+C:\VisualStudio\ClassesAbstratas\obj\Debug\ClassesAbstratas.pdb
+C:\VisualStudio\ClassesAbstratas\obj\Debug\ClassesAbstratas.csprojResolveAssemblyReference.cache

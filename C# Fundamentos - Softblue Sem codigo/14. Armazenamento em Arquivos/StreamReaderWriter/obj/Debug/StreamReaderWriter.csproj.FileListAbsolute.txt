@@ -1,0 +1,6 @@
+C:\VisualStudio\StreamReaderWriter\bin\Debug\StreamReaderWriter.exe.config
+C:\VisualStudio\StreamReaderWriter\bin\Debug\StreamReaderWriter.exe
+C:\VisualStudio\StreamReaderWriter\bin\Debug\StreamReaderWriter.pdb
+C:\VisualStudio\StreamReaderWriter\obj\Debug\StreamReaderWriter.csprojResolveAssemblyReference.cache
+C:\VisualStudio\StreamReaderWriter\obj\Debug\StreamReaderWriter.exe
+C:\VisualStudio\StreamReaderWriter\obj\Debug\StreamReaderWriter.pdb

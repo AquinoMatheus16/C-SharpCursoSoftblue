@@ -1,0 +1,6 @@
+C:\VisualStudio\ObjectInitializer\bin\Debug\ObjectInitializer.exe.config
+C:\VisualStudio\ObjectInitializer\bin\Debug\ObjectInitializer.exe
+C:\VisualStudio\ObjectInitializer\bin\Debug\ObjectInitializer.pdb
+C:\VisualStudio\ObjectInitializer\obj\Debug\ObjectInitializer.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ObjectInitializer\obj\Debug\ObjectInitializer.exe
+C:\VisualStudio\ObjectInitializer\obj\Debug\ObjectInitializer.pdb

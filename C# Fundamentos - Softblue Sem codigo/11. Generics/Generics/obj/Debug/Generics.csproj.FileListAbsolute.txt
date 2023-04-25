@@ -1,0 +1,6 @@
+C:\VisualStudio\Generics\bin\Debug\Generics.exe.config
+C:\VisualStudio\Generics\bin\Debug\Generics.exe
+C:\VisualStudio\Generics\bin\Debug\Generics.pdb
+C:\VisualStudio\Generics\obj\Debug\Generics.exe
+C:\VisualStudio\Generics\obj\Debug\Generics.pdb
+C:\VisualStudio\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

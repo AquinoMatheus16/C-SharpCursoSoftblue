@@ -1,0 +1,6 @@
+C:\VisualStudio\ListSort\bin\Debug\ListSort.exe.config
+C:\VisualStudio\ListSort\bin\Debug\ListSort.exe
+C:\VisualStudio\ListSort\bin\Debug\ListSort.pdb
+C:\VisualStudio\ListSort\obj\Debug\ListSort.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ListSort\obj\Debug\ListSort.exe
+C:\VisualStudio\ListSort\obj\Debug\ListSort.pdb

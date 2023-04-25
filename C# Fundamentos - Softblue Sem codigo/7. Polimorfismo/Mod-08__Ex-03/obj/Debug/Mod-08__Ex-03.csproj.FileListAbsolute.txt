@@ -1,0 +1,6 @@
+C:\VisualStudio\Mod-08__Ex-03\bin\Debug\Mod-08__Ex-03.exe.config
+C:\VisualStudio\Mod-08__Ex-03\bin\Debug\Mod-08__Ex-03.exe
+C:\VisualStudio\Mod-08__Ex-03\bin\Debug\Mod-08__Ex-03.pdb
+C:\VisualStudio\Mod-08__Ex-03\obj\Debug\Mod-08__Ex-03.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Mod-08__Ex-03\obj\Debug\Mod-08__Ex-03.exe
+C:\VisualStudio\Mod-08__Ex-03\obj\Debug\Mod-08__Ex-03.pdb

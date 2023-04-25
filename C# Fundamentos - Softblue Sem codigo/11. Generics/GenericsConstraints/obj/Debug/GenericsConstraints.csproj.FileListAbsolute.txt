@@ -1,0 +1,5 @@
+C:\VisualStudio\GenericsConstraints\bin\Debug\GenericsConstraints.exe.config
+C:\VisualStudio\GenericsConstraints\bin\Debug\GenericsConstraints.exe
+C:\VisualStudio\GenericsConstraints\bin\Debug\GenericsConstraints.pdb
+C:\VisualStudio\GenericsConstraints\obj\Debug\GenericsConstraints.exe
+C:\VisualStudio\GenericsConstraints\obj\Debug\GenericsConstraints.pdb

@@ -1,0 +1,6 @@
+C:\VisualStudio\Mod-12__Ex-02\bin\Debug\Mod-12__Ex-02.exe.config
+C:\VisualStudio\Mod-12__Ex-02\bin\Debug\Mod-12__Ex-02.exe
+C:\VisualStudio\Mod-12__Ex-02\bin\Debug\Mod-12__Ex-02.pdb
+C:\VisualStudio\Mod-12__Ex-02\obj\Debug\Mod-12__Ex-02.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Mod-12__Ex-02\obj\Debug\Mod-12__Ex-02.exe
+C:\VisualStudio\Mod-12__Ex-02\obj\Debug\Mod-12__Ex-02.pdb

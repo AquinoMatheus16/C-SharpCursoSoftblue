@@ -1,0 +1,6 @@
+C:\VisualStudio\ApplicationExceptions\bin\Debug\ApplicationExceptions.exe.config
+C:\VisualStudio\ApplicationExceptions\bin\Debug\ApplicationExceptions.exe
+C:\VisualStudio\ApplicationExceptions\bin\Debug\ApplicationExceptions.pdb
+C:\VisualStudio\ApplicationExceptions\obj\Debug\ApplicationExceptions.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ApplicationExceptions\obj\Debug\ApplicationExceptions.exe
+C:\VisualStudio\ApplicationExceptions\obj\Debug\ApplicationExceptions.pdb

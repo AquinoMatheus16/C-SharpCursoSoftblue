@@ -1,0 +1,5 @@
+C:\VisualStudio\ConstrutorHeranca\bin\Debug\ConstrutorHeranca.exe.config
+C:\VisualStudio\ConstrutorHeranca\bin\Debug\ConstrutorHeranca.exe
+C:\VisualStudio\ConstrutorHeranca\bin\Debug\ConstrutorHeranca.pdb
+C:\VisualStudio\ConstrutorHeranca\obj\Debug\ConstrutorHeranca.exe
+C:\VisualStudio\ConstrutorHeranca\obj\Debug\ConstrutorHeranca.pdb

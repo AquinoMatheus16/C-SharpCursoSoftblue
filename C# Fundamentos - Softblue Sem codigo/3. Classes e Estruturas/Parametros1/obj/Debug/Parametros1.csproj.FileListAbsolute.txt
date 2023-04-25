@@ -1,0 +1,6 @@
+C:\VisualStudio\Parametros1\bin\Debug\Parametros1.exe.config
+C:\VisualStudio\Parametros1\bin\Debug\Parametros1.exe
+C:\VisualStudio\Parametros1\bin\Debug\Parametros1.pdb
+C:\VisualStudio\Parametros1\obj\Debug\Parametros1.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Parametros1\obj\Debug\Parametros1.exe
+C:\VisualStudio\Parametros1\obj\Debug\Parametros1.pdb

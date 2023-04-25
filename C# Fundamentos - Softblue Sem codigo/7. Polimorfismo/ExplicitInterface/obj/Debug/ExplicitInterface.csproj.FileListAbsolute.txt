@@ -1,0 +1,6 @@
+C:\VisualStudio\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+C:\VisualStudio\ExplicitInterface\obj\Debug\ExplicitInterface.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+C:\VisualStudio\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+C:\VisualStudio\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+C:\VisualStudio\ExplicitInterface\obj\Debug\ExplicitInterface.pdb

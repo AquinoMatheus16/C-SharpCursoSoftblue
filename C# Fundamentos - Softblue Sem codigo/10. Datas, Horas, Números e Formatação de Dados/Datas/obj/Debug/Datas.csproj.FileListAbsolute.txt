@@ -1,0 +1,5 @@
+C:\VisualStudio\Datas\bin\Debug\Datas.exe.config
+C:\VisualStudio\Datas\bin\Debug\Datas.exe
+C:\VisualStudio\Datas\bin\Debug\Datas.pdb
+C:\VisualStudio\Datas\obj\Debug\Datas.exe
+C:\VisualStudio\Datas\obj\Debug\Datas.pdb

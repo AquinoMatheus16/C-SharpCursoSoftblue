@@ -1,0 +1,6 @@
+C:\VisualStudio\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+C:\VisualStudio\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+C:\VisualStudio\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+C:\VisualStudio\ClassesObjetos\obj\Debug\ClassesObjetos.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+C:\VisualStudio\ClassesObjetos\obj\Debug\ClassesObjetos.pdb

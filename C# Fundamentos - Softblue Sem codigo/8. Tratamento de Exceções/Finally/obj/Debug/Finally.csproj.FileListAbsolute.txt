@@ -1,0 +1,6 @@
+C:\VisualStudio\Finally\bin\Debug\Finally.exe.config
+C:\VisualStudio\Finally\bin\Debug\Finally.exe
+C:\VisualStudio\Finally\bin\Debug\Finally.pdb
+C:\VisualStudio\Finally\obj\Debug\Finally.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Finally\obj\Debug\Finally.exe
+C:\VisualStudio\Finally\obj\Debug\Finally.pdb

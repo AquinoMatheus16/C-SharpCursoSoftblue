@@ -1,0 +1,6 @@
+C:\VisualStudio\Namespaces\bin\Debug\Namespaces.exe.config
+C:\VisualStudio\Namespaces\bin\Debug\Namespaces.exe
+C:\VisualStudio\Namespaces\bin\Debug\Namespaces.pdb
+C:\VisualStudio\Namespaces\obj\Debug\Namespaces.exe
+C:\VisualStudio\Namespaces\obj\Debug\Namespaces.pdb
+C:\VisualStudio\Namespaces\obj\Debug\Namespaces.csprojResolveAssemblyReference.cache

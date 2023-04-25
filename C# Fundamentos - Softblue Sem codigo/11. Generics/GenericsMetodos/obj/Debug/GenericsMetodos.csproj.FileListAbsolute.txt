@@ -1,0 +1,6 @@
+C:\VisualStudio\GenericsMetodos\bin\Debug\GenericsMetodos.exe.config
+C:\VisualStudio\GenericsMetodos\bin\Debug\GenericsMetodos.exe
+C:\VisualStudio\GenericsMetodos\bin\Debug\GenericsMetodos.pdb
+C:\VisualStudio\GenericsMetodos\obj\Debug\GenericsMetodos.csprojResolveAssemblyReference.cache
+C:\VisualStudio\GenericsMetodos\obj\Debug\GenericsMetodos.exe
+C:\VisualStudio\GenericsMetodos\obj\Debug\GenericsMetodos.pdb

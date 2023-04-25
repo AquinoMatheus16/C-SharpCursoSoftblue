@@ -1,0 +1,5 @@
+C:\VisualStudio\Equals\bin\Debug\Equals.exe.config
+C:\VisualStudio\Equals\bin\Debug\Equals.exe
+C:\VisualStudio\Equals\bin\Debug\Equals.pdb
+C:\VisualStudio\Equals\obj\Debug\Equals.exe
+C:\VisualStudio\Equals\obj\Debug\Equals.pdb

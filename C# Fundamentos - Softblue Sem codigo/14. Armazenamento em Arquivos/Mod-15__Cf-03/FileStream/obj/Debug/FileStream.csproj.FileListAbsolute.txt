@@ -1,0 +1,6 @@
+C:\VisualStudio\FileStream\bin\Debug\FileStream.exe.config
+C:\VisualStudio\FileStream\obj\Debug\FileStream.csprojResolveAssemblyReference.cache
+C:\VisualStudio\FileStream\bin\Debug\FileStream.exe
+C:\VisualStudio\FileStream\bin\Debug\FileStream.pdb
+C:\VisualStudio\FileStream\obj\Debug\FileStream.exe
+C:\VisualStudio\FileStream\obj\Debug\FileStream.pdb

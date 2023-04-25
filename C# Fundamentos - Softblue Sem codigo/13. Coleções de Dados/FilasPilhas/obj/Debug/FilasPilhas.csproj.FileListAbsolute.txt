@@ -1,0 +1,6 @@
+C:\VisualStudio\FilasPilhas\bin\Debug\FilasPilhas.exe.config
+C:\VisualStudio\FilasPilhas\bin\Debug\FilasPilhas.exe
+C:\VisualStudio\FilasPilhas\bin\Debug\FilasPilhas.pdb
+C:\VisualStudio\FilasPilhas\obj\Debug\FilasPilhas.csprojResolveAssemblyReference.cache
+C:\VisualStudio\FilasPilhas\obj\Debug\FilasPilhas.exe
+C:\VisualStudio\FilasPilhas\obj\Debug\FilasPilhas.pdb

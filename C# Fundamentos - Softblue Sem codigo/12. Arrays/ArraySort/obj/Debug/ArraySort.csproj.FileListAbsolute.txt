@@ -1,0 +1,5 @@
+C:\VisualStudio\ArraySort\bin\Debug\ArraySort.exe.config
+C:\VisualStudio\ArraySort\bin\Debug\ArraySort.exe
+C:\VisualStudio\ArraySort\bin\Debug\ArraySort.pdb
+C:\VisualStudio\ArraySort\obj\Debug\ArraySort.exe
+C:\VisualStudio\ArraySort\obj\Debug\ArraySort.pdb

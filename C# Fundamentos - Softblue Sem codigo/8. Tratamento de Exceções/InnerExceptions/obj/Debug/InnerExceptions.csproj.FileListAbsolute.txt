@@ -1,0 +1,6 @@
+C:\VisualStudio\InnerExceptions\bin\Debug\InnerExceptions.exe.config
+C:\VisualStudio\InnerExceptions\bin\Debug\InnerExceptions.exe
+C:\VisualStudio\InnerExceptions\bin\Debug\InnerExceptions.pdb
+C:\VisualStudio\InnerExceptions\obj\Debug\InnerExceptions.csprojResolveAssemblyReference.cache
+C:\VisualStudio\InnerExceptions\obj\Debug\InnerExceptions.exe
+C:\VisualStudio\InnerExceptions\obj\Debug\InnerExceptions.pdb

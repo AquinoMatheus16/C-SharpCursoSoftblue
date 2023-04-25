@@ -1,0 +1,5 @@
+C:\VisualStudio\Interfaces\bin\Debug\Interfaces.exe.config
+C:\VisualStudio\Interfaces\bin\Debug\Interfaces.exe
+C:\VisualStudio\Interfaces\bin\Debug\Interfaces.pdb
+C:\VisualStudio\Interfaces\obj\Debug\Interfaces.exe
+C:\VisualStudio\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,5 @@
+C:\VisualStudio\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.exe.config
+C:\VisualStudio\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.exe
+C:\VisualStudio\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.pdb
+C:\VisualStudio\Mod-03__Ex-04\obj\Debug\Mod-03__Ex-04.exe
+C:\VisualStudio\Mod-03__Ex-04\obj\Debug\Mod-03__Ex-04.pdb

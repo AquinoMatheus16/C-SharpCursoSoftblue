@@ -1,0 +1,6 @@
+C:\VisualStudio\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+C:\VisualStudio\Sobrecarga\bin\Debug\Sobrecarga.exe
+C:\VisualStudio\Sobrecarga\bin\Debug\Sobrecarga.pdb
+C:\VisualStudio\Sobrecarga\obj\Debug\Sobrecarga.exe
+C:\VisualStudio\Sobrecarga\obj\Debug\Sobrecarga.pdb
+C:\VisualStudio\Sobrecarga\obj\Debug\Sobrecarga.csprojResolveAssemblyReference.cache

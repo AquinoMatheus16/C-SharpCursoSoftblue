@@ -1,0 +1,6 @@
+C:\VisualStudio\Parametros2\bin\Debug\Parametros2.exe.config
+C:\VisualStudio\Parametros2\bin\Debug\Parametros2.exe
+C:\VisualStudio\Parametros2\bin\Debug\Parametros2.pdb
+C:\VisualStudio\Parametros2\obj\Debug\Parametros2.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Parametros2\obj\Debug\Parametros2.exe
+C:\VisualStudio\Parametros2\obj\Debug\Parametros2.pdb

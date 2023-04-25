@@ -1,0 +1,5 @@
+C:\VisualStudio\Constants\bin\Debug\Constants.exe.config
+C:\VisualStudio\Constants\bin\Debug\Constants.exe
+C:\VisualStudio\Constants\bin\Debug\Constants.pdb
+C:\VisualStudio\Constants\obj\Debug\Constants.exe
+C:\VisualStudio\Constants\obj\Debug\Constants.pdb

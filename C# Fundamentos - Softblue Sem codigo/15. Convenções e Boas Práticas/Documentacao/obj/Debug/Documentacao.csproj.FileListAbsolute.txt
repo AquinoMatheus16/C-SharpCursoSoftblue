@@ -1,0 +1,7 @@
+C:\VisualStudio\Documentacao\bin\Debug\Documentacao.exe.config
+C:\VisualStudio\Documentacao\bin\Debug\Documentacao.XML
+C:\VisualStudio\Documentacao\bin\Debug\Documentacao.exe
+C:\VisualStudio\Documentacao\bin\Debug\Documentacao.pdb
+C:\VisualStudio\Documentacao\obj\Debug\Documentacao.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Documentacao\obj\Debug\Documentacao.exe
+C:\VisualStudio\Documentacao\obj\Debug\Documentacao.pdb

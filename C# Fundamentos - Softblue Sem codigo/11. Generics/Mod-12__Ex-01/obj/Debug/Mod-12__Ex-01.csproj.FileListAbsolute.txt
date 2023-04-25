@@ -1,0 +1,8 @@
+C:\VisualStudio\Mod-12__Ex-01\bin\Debug\Mod-12__Ex-01.exe.config
+C:\VisualStudio\Mod-12__Ex-01\bin\Debug\Mod-12__Ex-01.exe
+C:\VisualStudio\Mod-12__Ex-01\bin\Debug\Mod-12__Ex-01.pdb
+C:\VisualStudio\Mod-12__Ex-01\obj\Debug\Mod-12__Ex-01.exe
+C:\VisualStudio\Mod-12__Ex-01\obj\Debug\Mod-12__Ex-01.pdb
+C:\Softblue\Cursos\10 - Fundamentos de C#\Downloads\12\Exercícios\Mod-12__Ex-01\bin\Debug\Mod-12__Ex-01.exe.config
+C:\Softblue\Cursos\10 - Fundamentos de C#\Downloads\12\Exercícios\Mod-12__Ex-01\obj\Debug\Mod-12__Ex-01.exe
+C:\Softblue\Cursos\10 - Fundamentos de C#\Downloads\12\Exercícios\Mod-12__Ex-01\obj\Debug\Mod-12__Ex-01.pdb

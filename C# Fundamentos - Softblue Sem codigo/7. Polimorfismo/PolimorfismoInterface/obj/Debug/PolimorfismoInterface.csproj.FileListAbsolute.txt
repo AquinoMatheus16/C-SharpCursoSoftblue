@@ -1,0 +1,5 @@
+C:\VisualStudio\PolimorfismoInterface\bin\Debug\PolimorfismoInterface.exe.config
+C:\VisualStudio\PolimorfismoInterface\bin\Debug\PolimorfismoInterface.exe
+C:\VisualStudio\PolimorfismoInterface\bin\Debug\PolimorfismoInterface.pdb
+C:\VisualStudio\PolimorfismoInterface\obj\Debug\PolimorfismoInterface.exe
+C:\VisualStudio\PolimorfismoInterface\obj\Debug\PolimorfismoInterface.pdb

@@ -1,0 +1,6 @@
+C:\VisualStudio\ArquivosDiretorios\bin\Debug\ArquivosDiretorios.exe.config
+C:\VisualStudio\ArquivosDiretorios\bin\Debug\ArquivosDiretorios.exe
+C:\VisualStudio\ArquivosDiretorios\bin\Debug\ArquivosDiretorios.pdb
+C:\VisualStudio\ArquivosDiretorios\obj\Debug\ArquivosDiretorios.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ArquivosDiretorios\obj\Debug\ArquivosDiretorios.exe
+C:\VisualStudio\ArquivosDiretorios\obj\Debug\ArquivosDiretorios.pdb

@@ -1,0 +1,6 @@
+C:\VisualStudio\MainParam\bin\Debug\MainParam.exe.config
+C:\VisualStudio\MainParam\bin\Debug\MainParam.exe
+C:\VisualStudio\MainParam\bin\Debug\MainParam.pdb
+C:\VisualStudio\MainParam\obj\Debug\MainParam.csprojResolveAssemblyReference.cache
+C:\VisualStudio\MainParam\obj\Debug\MainParam.exe
+C:\VisualStudio\MainParam\obj\Debug\MainParam.pdb

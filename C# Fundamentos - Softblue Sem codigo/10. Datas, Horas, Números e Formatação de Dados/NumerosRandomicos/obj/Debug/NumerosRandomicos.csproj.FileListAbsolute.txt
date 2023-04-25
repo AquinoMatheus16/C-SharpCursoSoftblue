@@ -1,0 +1,5 @@
+C:\VisualStudio\NumerosRandomicos\bin\Debug\NumerosRandomicos.exe.config
+C:\VisualStudio\NumerosRandomicos\bin\Debug\NumerosRandomicos.exe
+C:\VisualStudio\NumerosRandomicos\bin\Debug\NumerosRandomicos.pdb
+C:\VisualStudio\NumerosRandomicos\obj\Debug\NumerosRandomicos.exe
+C:\VisualStudio\NumerosRandomicos\obj\Debug\NumerosRandomicos.pdb

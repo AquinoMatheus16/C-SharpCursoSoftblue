@@ -1,0 +1,5 @@
+C:\VisualStudio\Object\bin\Debug\Object.exe.config
+C:\VisualStudio\Object\bin\Debug\Object.exe
+C:\VisualStudio\Object\bin\Debug\Object.pdb
+C:\VisualStudio\Object\obj\Debug\Object.exe
+C:\VisualStudio\Object\obj\Debug\Object.pdb

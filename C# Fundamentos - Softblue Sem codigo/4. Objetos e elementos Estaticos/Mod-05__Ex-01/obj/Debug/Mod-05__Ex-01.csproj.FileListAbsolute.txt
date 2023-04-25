@@ -1,0 +1,6 @@
+C:\VisualStudio\Mod-05__Ex-01\bin\Debug\Mod-05__Ex-01.exe.config
+C:\VisualStudio\Mod-05__Ex-01\bin\Debug\Mod-05__Ex-01.exe
+C:\VisualStudio\Mod-05__Ex-01\bin\Debug\Mod-05__Ex-01.pdb
+C:\VisualStudio\Mod-05__Ex-01\obj\Debug\Mod-05__Ex-01.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Mod-05__Ex-01\obj\Debug\Mod-05__Ex-01.exe
+C:\VisualStudio\Mod-05__Ex-01\obj\Debug\Mod-05__Ex-01.pdb

@@ -1,0 +1,5 @@
+C:\VisualStudio\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.exe.config
+C:\VisualStudio\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.exe
+C:\VisualStudio\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.pdb
+C:\VisualStudio\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.exe
+C:\VisualStudio\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.pdb
